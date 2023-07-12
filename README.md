@@ -4,7 +4,7 @@ This project focuses on predicting the duration of city taxi trips using machine
 
 The dataset has been preprocessed to handle missing values, perform exploratory data analysis, and create relevant features for modeling purposes.
 
-#**Methodology**
+# Methodology
 
 The project follows the following steps:
 
@@ -24,7 +24,7 @@ Prediction: The trained model is used to predict the duration of taxi trips in t
 
 Deployment: The predicted results are saved and can be further utilized or analyzed as needed.
 
-#**Requirements**
+# Requirements
 
 To run the project code, the following libraries are required:
 
@@ -33,7 +33,7 @@ numpy,
 scikit-learn,
 matplotlib
 
-#**Usage**
+# Usage
 
 1. Clone the repository.
 2. Download the train and test datasets from the provided source and place them in the repository folder.
